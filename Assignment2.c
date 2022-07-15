@@ -6,7 +6,7 @@ int main()
     // int a;
     // printf("Enter the any number :- ");
     // scanf("%d", &a);
-    // printf("The Number is ",a);
+    // printf("The Number is %d",a);
     // return 0;
 
     // // 2] Write a program that read a two number and calculate and print the sum  of the number.
