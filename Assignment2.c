@@ -59,31 +59,31 @@ int main()
     // return 0;
 
     // // 7]Write a programms that read the value and solve the expressions.
-    int x;
-    printf("Enter the value of  x :- ");
-    scanf("%d", &x);
-    float y;
-    printf("Enter the value of  y :- ");
-    scanf("%f", &y);
-    float r;
-    printf("Enter the value of  r :- ");
-    scanf("%f", &r);
-    int h;
-    printf("Enter the value of  h :- ");
-    scanf("%d", &h);
-    // [a]
-    printf("x+y * x/y = %.1f\n", x + y * x / y);
-    // [b]
-    printf("p = %.1f\n", pow(x, 3) - pow(y, 3));
-    // [c]
-    printf("q = %.1f\n", x * pow(y, 2));
-    // [d]
-    printf("t = %.1f\n", pow(x, 2) - pow(y, 2) + 2 * x * y);
-    // [e]
-    printf("s =  %.1f\n", y * ((pow(x, 2)) - 1));
-    // [f]
-    printf("a = %.1f\n", 2 * 3.24 * r);
-    // [g]
-    printf("z = %.1f", 4 / 3 * 3.14 * r * r * h);
-    return 0;
+    // int x;
+    // printf("Enter the value of  x :- ");
+    // scanf("%d", &x);
+    // float y;
+    // printf("Enter the value of  y :- ");
+    // scanf("%f", &y);
+    // float r;
+    // printf("Enter the value of  r :- ");
+    // scanf("%f", &r);
+    // int h;
+    // printf("Enter the value of  h :- ");
+    // scanf("%d", &h);
+    // // [a]
+    // printf("x+y * x/y = %.1f\n", x + y * x / y);
+    // // [b]
+    // printf("p = %.1f\n", pow(x, 3) - pow(y, 3));
+    // // [c]
+    // printf("q = %.1f\n", x * pow(y, 2));
+    // // [d]
+    // printf("t = %.1f\n", pow(x, 2) - pow(y, 2) + 2 * x * y);
+    // // [e]
+    // printf("s =  %.1f\n", y * ((pow(x, 2)) - 1));
+    // // [f]
+    // printf("a = %.1f\n", 2 * 3.24 * r);
+    // // [g]
+    // printf("z = %.1f", 4 / 3 * 3.14 * r * r * h);
+    // return 0;
 }
